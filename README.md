@@ -11,5 +11,5 @@ COMMIT
 git checkout develop
 pip freeze > requirements.txt
 git add .
-git commit -m "Your commit message"
+git commit -m "commit message"
 git push origin develop
